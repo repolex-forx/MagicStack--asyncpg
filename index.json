@@ -1,0 +1,11 @@
+{
+  "org": "MagicStack",
+  "repo": "asyncpg",
+  "versions": [
+    {
+      "commit": "13b01910da3fe01b8241c31cc86eccb1301a2d39",
+      "tag": "",
+      "parsed_at": "2026-10-17T02:41:09.918339+00:00"
+    }
+  ]
+}
