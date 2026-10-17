@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/MagicStack/asyncpg/commit/13b01910da3fe01b8241c31cc86eccb1301a2d39",
       "git:hexsha": "13b01910da3fe01b8241c31cc86eccb1301a2d39",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/MagicStack/asyncpg/commit/bde06b58e3e759badae03d3e7052b2528c4a6053",

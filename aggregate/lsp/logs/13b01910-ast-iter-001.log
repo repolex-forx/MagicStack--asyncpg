@@ -1,0 +1,7 @@
+[2026-10-17T02:38:49Z] === AST ITERATION 1 START | repo=MagicStack/asyncpg sha=13b01910 ===
+[2026-10-17T02:38:49Z] [iter=1] PHASE START: ast repo=MagicStack/asyncpg sha=13b01910
+[2026-10-17T02:38:49Z] [iter=1] Building AST aggregate chunks
+[2026-10-17T02:39:58Z] [iter=1] AST chunks built count=1 triples=967662
+[2026-10-17T02:39:58Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/13b01910da3fe01b8241c31cc86eccb1301a2d39/.complete
+[2026-10-17T02:39:58Z] [iter=1] PHASE END: ast elapsed_s=69 elapsed_min=1.1
+[2026-10-17T02:39:58Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
