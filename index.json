@@ -3,6 +3,11 @@
   "repo": "asyncpg",
   "versions": [
     {
+      "commit": "71775a67277fc0aa5bd2b9f15e848826d7078c4d",
+      "tag": "v0.31.0",
+      "parsed_at": "2026-11-22T05:29:32.435653+00:00"
+    },
+    {
       "commit": "13b01910da3fe01b8241c31cc86eccb1301a2d39",
       "tag": "",
       "parsed_at": "2026-10-17T02:41:09.918339+00:00"
