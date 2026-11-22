@@ -316,6 +316,79 @@
       ],
       "ast": [
         "aggregate/ast/71775a67277fc0aa5bd2b9f15e848826d7078c4d/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/71775a67277fc0aa5bd2b9f15e848826d7078c4d.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "async-timeout",
+          "ecosystem": "PYPI",
+          "version": "4.0.3",
+          "githubOrg": "aio-libs",
+          "githubRepo": "async-timeout",
+          "githubCommit": "a48974404c746593f78c116faceb56a0db50309e",
+          "githubTag": "v4.0.3",
+          "githubUrl": "https://github.com/aio-libs/async-timeout",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "gssapi",
+          "ecosystem": "PYPI",
+          "version": "1.12.0",
+          "githubOrg": "pythongssapi",
+          "githubRepo": "python-gssapi",
+          "githubCommit": "4a4d42d22bcd0e2fc99b9b87197b16d825a62528",
+          "githubTag": "v1.12.0",
+          "githubUrl": "https://github.com/pythongssapi/python-gssapi",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "sspilib",
+          "ecosystem": "PYPI",
+          "version": "0.6.0",
+          "githubOrg": "jborean93",
+          "githubRepo": "sspilib",
+          "githubCommit": "6e1ca9bec7d8a35d4c4a18cfdc4b1b188047200a",
+          "githubTag": "v0.6.0",
+          "githubUrl": "https://github.com/jborean93/sspilib",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "setuptools",
+          "ecosystem": "PYPI",
+          "version": "84.2.1",
+          "githubOrg": "pypa",
+          "githubRepo": "setuptools",
+          "githubCommit": "3895f9829fc0e51882981773a823a658eb1d1636",
+          "githubTag": "v84.2.1",
+          "githubUrl": "https://github.com/pypa/setuptools",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/setuptools/command/build_ext.py"
+        },
+        {
+          "packageName": "requests",
+          "ecosystem": "PYPI",
+          "version": "2.34.2",
+          "githubOrg": "psf",
+          "githubRepo": "requests",
+          "githubCommit": "6e83187b8feb273ed4c6cdab5efd8d54901dfab3",
+          "githubTag": "v2.34.2",
+          "githubUrl": "https://github.com/psf/requests",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/requests/api.py"
+        },
+        {
+          "packageName": "typing-extensions",
+          "ecosystem": "PYPI",
+          "version": "4.16.0",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions",
+          "githubCommit": "f29cd28d8ed7642cafb1d18daf5aa41be6a5c0aa",
+          "githubTag": "4.16.0",
+          "githubUrl": "https://github.com/python/typing_extensions",
+          "source": "lsp",
+          "raw_name": "typing_extensions.py",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.13/site-packages/typing_extensions.py"
+        }
       ]
     }
   ],
